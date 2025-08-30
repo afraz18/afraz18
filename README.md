@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> fac91c11be5ff6a81226d6369d47031e92cd7367
 <!-- afraz18 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&color=0C87F2&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Afraj+Charaniya+%F0%9F%91%8B;Full‑stack+Developer+%7C+Data+Science+%7C+Cloud;Building+Products+%26+Insights" alt="Typing SVG" />
