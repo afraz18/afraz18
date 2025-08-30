@@ -18,14 +18,14 @@
     </defs>
 
     <rect width="1200" height="220" fill="url(#g)"/>
-    <!-- wave effect -->
+    <!-- wave overlay -->
     <path d="M0,160 C200,220 420,120 600,160 C780,200 1000,120 1200,160 L1200,220 L0,220 Z" fill="rgba(255,255,255,0.12)"/>
 
     <g transform="translate(60,70)">
       <text class="title">Afraj Charaniya</text>
       <text class="subtitle" y="46">Full-Stack Developer • Deep Learning • Cloud Computing</text>
 
-      <!-- tech chips -->
+      <!-- skill chips -->
       <g transform="translate(0,78)">
         <rect class="pill" rx="10" width="140" height="26"/>
         <text class="chip" x="12" y="18">TensorFlow</text>
@@ -50,39 +50,41 @@
 
 ## 👋 About Me
 🎓 MCA Student @ Parul University | B.Sc. IT Graduate (CGPA 7.82)  
-💻 Experienced in *Full-Stack Development, AI, Deep Learning, and Cloud Computing*.  
+💻 Experienced in *Full-Stack Development, AI, Deep Learning, and Cloud Computing*  
 💡 Passionate about building *intelligent systems* that combine software engineering with ML models.  
 
 ---
 
-## 🧠 Deep Learning & AI Tech
+## 🧠 Tech Stack (AI + Development)
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLP-154360.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
 ## 🏗 Featured Projects
-- *Furniture E-Commerce Website Management* — PHP, MySQL, Bootstrap  
-  Complete system with catalog, cart, checkout, and admin panel.  
+- *Furniture E-Commerce Website* — PHP, MySQL, Bootstrap  
+  End-to-end system: catalog, cart, checkout, admin panel.  
 
-- *Deep Learning Image Classifier* (personal showcase)  
+- *Deep Learning Image Classifier* (Showcase)  
   CNN with TensorFlow for multi-class image recognition.  
 
-- *To-Do App (Kotlin + Jetpack Compose)* — Android  
+- *To-Do App (Kotlin + Jetpack Compose)*  
   MVVM architecture, Room/SQLite, Jetpack UI.  
 
-- *Portfolio Website* — Bootstrap  
-  Responsive site with services + project showcase.  
+- *Portfolio Website* — Bootstrap + Custom Design  
+  Responsive personal portfolio with projects + services.  
 
 ---
 
