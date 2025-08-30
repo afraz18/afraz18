@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+<!-- afraz18 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=0C87F2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Afraj+Charaniya+%F0%9F%91%8B;Full‑stack+Developer+%7C+Data+Science+%7C+Cloud;Open+to+Internships+%26+Projects" alt="Typing SVG" />
 </p>
