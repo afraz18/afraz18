@@ -1,82 +1,124 @@
-<!--
-Hi Afraj!
-This is your personalized README. To make it perfect, you just need to:
-Replace [your-github-username] with your actual GitHub username in the two spots under "My GitHub Stats".
-Replace [your-linkedin-url] with the full URL to your LinkedIn profile.
-Create a banner image! A 1280x300px image works great. You can design one in Figma or Canva. I've put a placeholder for now.
-To use this on your profile:
-Create a new public repository with the exact same name as your GitHub username.
-Add this README.md file to that repository. GitHub will automatically display it on your profile page!
--->
-<!-- BANNER -->
+<!-- Banner -->
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1280x300/0D1117/FFFFFF%3Ftext%3DHello,%2BI%27m%2BAfraj%2BCharaniya!" alt="Afraj Charaniya - Full-Stack Developer & UI/UX Designer">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Afraj+Charaniya;Full‑Stack+Developer+%7C+Data+Science+%7C+Cloud+%7C+UI%2FUX;Building+useful+products+with+clean+code+and+data" alt="Typing SVG" />
 </p>
-<!-- INTRODUCTION -->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h1 style="display: inline-block;">Hi there, I'm Afraj Charaniya 👋</h1></summary>
-</ul>
-</div>
+
+<!-- Top badges -->
 <p align="center">
-I'm a <strong>Full-Stack Developer and UI/UX Designer</strong>, passionate about building complete, user-centric digital solutions. As a results-driven MCA student with internship experience at firms like TCS, Deloitte, and IBM, I specialize in bridging the gap between robust back-end functionality and intuitive, engaging user interfaces.
+  <a href="mailto:afrajcharniya264@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://afraj-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-View-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-<!-- SOCIALS -->
-<p align="center">
-<a href="mailto:afrajcharniya264@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
-<a href="[your-linkedin-url]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-</p>
-<!-- ABOUT ME -->
-🔭 A Little More About Me
-🎓 I’m currently pursuing my Master of Computer Application at Parul University.
-🌱 I’m deepening my knowledge in cloud architecture (AWS) and scalable back-end systems.
-🤝 I’m looking to collaborate on full-stack projects that require a keen eye for design and user experience.
-💬 Ask me about React, Python, UI/UX design principles, and data visualization.
-📫 How to reach me: afrajcharniya264@gmail.com
-⚡ Fun fact: I have a solid foundation in both creative design and logical development, allowing me to see the full picture of a project.
-<!-- SKILLS -->
-🛠 My Skills & Tools
-UI/UX & Design
+
+<!-- Intro -->
+### 👋 Hi, I’m Afraj
+Results‑driven B.Sc. IT graduate (University of Mumbai), MCA candidate at Parul University, with five internships across TCS, Deloitte, and IBM spanning full‑stack, data science, cloud, and UI/UX. I ship responsive web apps, data dashboards, and scalable cloud components using React, PHP, Python, AWS, and Power BI. I value clean architecture, clear communication, and fast iteration. 
+
+<!-- Quick facts -->
+- 🌐 Focus: Full‑stack (React, PHP, Node), Data (Python, Power BI, Tableau), Cloud (AWS), UI/UX (Figma)
+- 🔭 Current: MCA @ Parul University • Portfolio revamp and data viz automations
+- 🤝 Open to: SWE, Data, Cloud, and Product Engineering internships/roles
+
+---
+
+## 🚀 Featured Project
+### Furniture E‑Commerce Website Management
+Full‑stack e‑commerce platform with catalog, cart, and checkout, optimized for UX and responsiveness.  
+Tech: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap  
+- Built end‑to‑end flows, implemented cart and order lifecycle, and improved page performance.  
+- Designed clean data models and secure forms; responsive layouts across devices.  
+Repo: https://github.com/YOUR_GITHUB_USERNAME/furniture-ecommerce
+
+---
+
+## 🧩 Skills at a Glance
+<!-- Core badges -->
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520XD-470137%3Fstyle%3Dfor-the-badge%26logo%3DAdobe%2520XD%26logoColor%3Dwhite" alt="Adobe XD">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%2520photoshop%26logoColor%3Dwhite" alt="Photoshop">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%2520illustrator%26logoColor%3Dwhite" alt="Illustrator">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Canva-00C4CC%3Fstyle%3Dfor-the-badge%26logo%3DCanva%26logoColor%3Dwhite" alt="Canva">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white&style=for-the-badge" />
 </p>
-Front-End Development
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React">
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
 </p>
-Back-End, Databases & DevOps
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
 </p>
-<!-- GITHUB STATS -->
-📊 My GitHub Stats
-<!-- Replace [your-github-username] with your GitHub username -->
+<p>
+  <!-- Cloud/DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+<p>
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+</p>
+<p>
+  <!-- UI/UX -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-450135?logo=adobexd&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+- Internship Studio — Web Design & Development: Delivered responsive pages with HTML/CSS/PHP; improved turnaround by 30%.  
+- TCS — Data Visualization: Built interactive dashboards in Power BI and Tableau enabling data‑driven decisions.  
+- Deloitte — Technology Intern: Supported cloud migration and application testing initiatives.  
+- IBM — AI & Data Science Internships: Implemented ML workflows and predictive models with scikit‑learn and XGBoost.  
+
+---
+
+## 🛠 What I Build
+- Full‑stack apps: React + PHP/Node, REST APIs, auth, and MySQL data models.  
+- Data apps: ETL, EDA, dashboards, and ML prototypes with Python, Power BI, Tableau.  
+- Cloud: AWS EC2/S3/Lambda/RDS, basic Docker, CI/CD, serverless patterns.  
+- UI/UX: Wireframes, prototypes, and responsive systems with Figma.  
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[your-github-username]&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
-<!-- PINNED PROJECTS -->
-📌 Pinned Project Highlight
-Below is a key project from my portfolio. Be sure to pin this repository and others to your profile!
-Furniture E-Commerce Website Management
-Description: A complete e-commerce platform for online furniture sales.
-My Role: As the full-stack developer, I built the entire user flow, including the product catalog, shopping cart, and checkout system, while focusing on optimizing the user experience (UX).
-Technologies: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap.
 <p align="center">
-<small>Thank you for visiting my profile!</small>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160" /></a>
 </p>
+
+---
+
+## 🧾 Certifications
+- TCS: Data Visualization (Power BI, Tableau, Python)  
+- Deloitte: Technology Consulting (Cloud, BA, Excel)  
+- IBM: Python Data Science; Artificial Intelligence  
+- AWS: Solutions Architect (Virtual Internship)  
+
+---
+
+## 🧠 CS Foundations
+Algorithms & Data Structures • OOP • OS & Linux • Networking & Security • SDLC (Agile/Waterfall) • Testing (Manual/Automated)
+
+---
+
+## 📫 Contact
+- Email: afrajcharniya264@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG  
+- Resume: Add a public link to this PDF in a repo (e.g., /assets/Afraj_Charaniya_Resume.pdf) and link it here.  
+-
