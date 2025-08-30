@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Afraj Charaniya  
 
-🎓 MCA Student @ Parul University, Vadodara | 💻 Full-Stack Developer | ☁ Cloud & Data Science Enthusiast  
+🎓 MCA Student @ Parul University, Vadodara  
+💻 Full-Stack Developer | ☁ Cloud & Data Science Enthusiast  
 
 ---
 
@@ -8,6 +9,22 @@
 Results-driven *B.Sc. IT graduate* (7.82/10 CGPA) and current *MCA student, with internship experiences at **TCS, Deloitte, IBM, and **Internship Studio*.  
 I specialize in *full-stack web development, data science, cloud computing, and UI/UX design*.  
 Passionate about building scalable solutions, learning emerging technologies, and applying them in real-world projects.  
+
+---
+
+## 🛠 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -27,20 +44,6 @@ Passionate about building scalable solutions, learning emerging technologies, an
 - *Data Science Intern – IBM (2025)*  
   Built *predictive models* with Scikit-learn & XGBoost for structured datasets.  
 
-- *Office Support Assistant – Silvassa (2022)*  
-  Managed official documentation, reports, and records with MS Office.  
-
----
-
-## 🛠 Skills  
-*Programming:* C, C++, Java, Python, JavaScript, PHP, SQL  
-*Web Dev:* HTML5, CSS3, Bootstrap, React, Node.js, AJAX, JSON, MySQL, MongoDB  
-*Data Science & AI:* Pandas, NumPy, Scikit-learn, XGBoost, Power BI, Tableau  
-*Cloud & DevOps:* AWS (EC2, S3, Lambda, RDS), Docker (Basics), Firebase, CI/CD  
-*UI/UX & Design:* Figma, Adobe XD, Photoshop, Illustrator  
-*Mobile Development:* Android (Java/Kotlin, Jetpack Compose), Flutter (Basic)  
-*Other Tools:* Git, GitHub, MS Office, Linux, Wireshark  
-
 ---
 
 ## 📌 Featured Projects  
@@ -56,8 +59,12 @@ Passionate about building scalable solutions, learning emerging technologies, an
 ---
 
 ## 📊 GitHub Stats  
-![Afraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfr2318&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfr2318&layout=compact&theme=tokyonight)  
+
+![Afraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=afraz18&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=afraz18&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afraz18&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -73,5 +80,9 @@ Passionate about building scalable solutions, learning emerging technologies, an
 ## 🌐 Connect with Me  
 📧 Email: [afrajcharniya264@gmail.com](mailto:afrajcharniya264@gmail.com)  
 🔗 LinkedIn: [Afraj Charaniya](https://www.linkedin.com/in/afraj-charaniya-042484255/)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=afraz18&color=blue)  
 
 ⭐ Always open to collaborations in *Full-Stack Development, AI, and Cloud Projects*!
