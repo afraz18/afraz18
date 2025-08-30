@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> fac91c11be5ff6a81226d6369d47031e92cd7367
 <!-- afraz18 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&color=0C87F2&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Afraj+Charaniya+%F0%9F%91%8B;Full‑stack+Developer+%7C+Data+Science+%7C+Cloud;Building+Products+%26+Insights" alt="Typing SVG" />
@@ -12,7 +8,7 @@
   <a href="mailto:afrajcharniya264@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-afrajcharniya264%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-slug">
+  <a href="www.linkedin.com/in/afraj-charaniya-042484255">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afraj%20Charaniya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/afraz18">
