@@ -27,7 +27,7 @@ Full‑stack e‑commerce platform with catalog, cart, and checkout, optimized f
 Tech: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap  
 - Built end‑to‑end flows, implemented cart and order lifecycle, and improved page performance.  
 - Designed clean data models and secure forms; responsive layouts across devices.  
-Repo: https://github.com/YOUR_GITHUB_USERNAME/furniture-ecommerce
+Repo: https://github.com/afraz18/furniture-ecommerce
 
 ---
 
