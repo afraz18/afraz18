@@ -74,5 +74,4 @@ Passionate about building scalable solutions, learning emerging technologies, an
 📧 Email: [afrajcharniya264@gmail.com](mailto:afrajcharniya264@gmail.com)  
 🔗 LinkedIn: [Afraj Charaniya](https://www.linkedin.com/in/afraj-charaniya-042484255/)  
 
----
 ⭐ Always open to collaborations in *Full-Stack Development, AI, and Cloud Projects*!
