@@ -136,7 +136,7 @@ text
   <a href="mailto:afrajcharniya264@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-afrajcharniya264%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-slug">
+  <a href="www.linkedin.com/in/afraj-charaniya-042484255">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afraj%20Charaniya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/afraz18">
