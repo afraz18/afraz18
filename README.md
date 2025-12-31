@@ -104,9 +104,9 @@ Built Django apps with models, views, templates, and admin panel.
 
 ## 📫 Contact
 
-- Email: your@email.com  
-- LinkedIn: your-link  
-- Portfolio: your-website-link  
+- Email: afrajcharniya264@gmail.com 
+- LinkedIn: www.linkedin.com/in/afraj-charaniya-042484255  
+- Portfolio: charaniya-development.page.gd
 
 ---
 
