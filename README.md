@@ -1,113 +1,73 @@
+# Afraj Charaniya
 
-# Hi, I'm Afraj 👋
+**Backend-Focused Software Developer | Full Stack Developer | IT Services Provider**
 
-I'm a **Web Developer** based in India, working on real-world web applications and business websites.  
-I mostly build projects using **PHP, Laravel, and Django**, along with modern frontend technologies.
-
----
-
-## 👨‍💻 About Me
-
-- Web Developer with hands-on project experience  
-- Strong in backend logic and database-driven applications  
-- Experience building e-commerce, directory, and business websites  
-- Interested in performance, SEO, and practical system design  
+I build robust, scalable backend systems and data-driven full-stack applications. My focus is on creating production-ready architecture, efficient databases, and seamless integrations that serve as the reliable foundation for web and mobile platforms.
 
 ---
 
-## 🛠 Skills & Technologies
+## Core Expertise
 
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
+- **Backend Development & System Architecture:** Designing and implementing server-side logic, APIs, and scalable service structures.
+- **Database Design & Optimization:** Structuring efficient data models, writing complex queries, and ensuring performance.
+- **End-to-End Application Development:** Delivering functional products from concept to deployment, covering backend, frontend, and mobile.
+- **Data-Driven Solutions:** Integrating data analysis and management directly into application logic.
 
-### Backend
-- PHP  
-- Laravel  
-- Python  
-- Django  
+## Technical Toolkit
 
-### Database
-- MySQL  
-- SQLite  
-
-### SEO & Digital Marketing
-- On-page SEO (meta tags, headings, performance)  
-- Website structure optimization  
-- Search Console basics  
-- Google Analytics (basic)  
-
-### APIs & Integrations
-- REST API integration  
-- Third-party API consumption  
-- Form & data APIs  
-
-### Tools
-- Git & GitHub  
-- VS Code  
-- XAMPP  
-- cPanel / Hosting  
+| Area           | Technologies & Skills |
+|----------------|-----------------------|
+| **Backend**    | PHP, Laravel, Django, REST APIs, System Design |
+| **Databases**  | MySQL, Database Architecture, Query Optimization, Django ORM |
+| **Mobile**     | Android Studio, Java |
+| **Web Frontend** | HTML, CSS, JavaScript, Bootstrap |
+| **Tools & Practices** | Git, GitHub, Agile Development, Deployment |
 
 ---
 
-## 📂 Projects
+## Selected Projects
 
-### Furniture E-Commerce Website
-Full-featured furniture shopping platform with admin control.
+### Dialkiya
+A comprehensive business directory platform with web and Android applications. Built a dynamic backend for real-time listings management, user submissions, and admin control, emphasizing scalability and clean data flow.
 
-- Product, category, and order management  
-- Database-driven dynamic pages  
-- SEO-friendly URLs and structure  
+### AI Meeting Software (Zoom-like)
+A video conferencing and collaboration platform. Developed core backend features for user management, session handling, and secure real-time communication architecture.
 
-**Tech:** PHP, MySQL, Bootstrap
+### Furniture E-Commerce Management System
+A full-featured e-commerce platform. Engineered the backend for product catalog, shopping cart, order processing, and an extensive admin panel for inventory and sales management.
 
----
+### Bharat Election – IT Services & Result System
+A specialized platform for election services with real-time result tracking. Focused on robust data handling, integrity, and presentation for high-stakes, time-sensitive information.
 
-### Electronic Devices E-Commerce
-Online store for electronic products with clean UI and backend logic.
-
-**Tech:** PHP, MySQL
+> *More projects and details are available on my [Portfolio & Services Website](https://charaniyadevelopment.com).*
 
 ---
 
-### Bharat Directory (API-Based)
-Directory website using API data with dynamic rendering and filters.
+## Current Focus
 
-**Tech:** PHP, MySQL, REST APIs
-
----
-
-### Portfolio Website
-Personal portfolio website with contact form and responsive layout.
-
-**Tech:** HTML5, CSS3, JavaScript
+- **Working On:** Enhancing scalable backend patterns and microservices architecture within enterprise-grade applications.
+- **Learning:** Advanced system design principles, deeper performance optimization techniques for large-scale databases, and modern DevOps practices.
 
 ---
 
-### Django Web Applications
-Built Django apps with models, views, templates, and admin panel.
+## Experience
 
-**Tech:** Python, Django, SQLite / MySQL
+- **IT Executive & Software Developer** at Mohphret Technologies  
+  Led backend development and IT infrastructure for service-based projects and client solutions.
 
----
-
-## 🎯 Currently Working On
-
-- Improving Laravel and Django project structure  
-- Better database design and optimization  
-- SEO-focused web development  
-- API-based systems  
+- **Full Stack Developer & IT Specialist** at Charaniya Development  
+  Build and deliver custom web applications, mobile apps, and comprehensive IT services for a diverse client base.
 
 ---
 
-## 📫 Contact
+## Connect
 
-- Email: afrajcharniya264@gmail.com 
-- LinkedIn: www.linkedin.com/in/afraj-charaniya-042484255  
-- Portfolio: charaniya-development.page.gd
+I am open to discussions on backend architecture, complex system challenges, and collaborative projects.
+
+- **Professional Portfolio & Services:** [charaniyadevelopment.com](https://charaniyadevelopment.com)
+- **GitHub:** [github.com/afrajcharaniya](https://github.com/afrajcharaniya)
+- **LinkedIn:** [linkedin.com/in/afrajcharaniya](https://linkedin.com/in/afrajcharaniya)
+- **Email:** [contact@charaniyadevelopment.com](mailto:contact@charaniyadevelopment.com)
 
 ---
-
-Thanks for checking out my profile.
+*Building the systems that power products.*
