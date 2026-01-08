@@ -39,7 +39,7 @@ A full-featured e-commerce platform. Engineered the backend for product catalog,
 ### Bharat Election – IT Services & Result System
 A specialized platform for election services with real-time result tracking. Focused on robust data handling, integrity, and presentation for high-stakes, time-sensitive information.
 
-> *More projects and details are available on my [Portfolio & Services Website](https://charaniyadevelopment.com).*
+> *More projects and details are available on my [Portfolio & Services Website](https://charaniya-development.page.gd).*
 
 ---
 
@@ -64,10 +64,10 @@ A specialized platform for election services with real-time result tracking. Foc
 
 I am open to discussions on backend architecture, complex system challenges, and collaborative projects.
 
-- **Professional Portfolio & Services:** [charaniyadevelopment.com](https://charaniyadevelopment.com)
+- **Professional Portfolio & Services:** [charaniya-development.page.gd](https://charaniya-development.page.gd)
 - **GitHub:** [github.com/afrajcharaniya](https://github.com/afrajcharaniya)
 - **LinkedIn:** [linkedin.com/in/afrajcharaniya](https://linkedin.com/in/afrajcharaniya)
-- **Email:** [contact@charaniyadevelopment.com](mailto:contact@charaniyadevelopment.com)
+- **Email:** [afrajcharniya264@gmail.com](mailto:afrajcharniya264@gmail.com)
 
 ---
 *Building the systems that power products.*
