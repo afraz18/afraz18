@@ -64,9 +64,9 @@ A specialized platform for election services with real-time result tracking. Foc
 
 I am open to discussions on backend architecture, complex system challenges, and collaborative projects.
 
-- **Professional Portfolio & Services:** [charaniya-development.page.gd](https://charaniya-development.page.gd)
-- **GitHub:** [github.com/afrajcharaniya](https://github.com/afrajcharaniya)
-- **LinkedIn:** [linkedin.com/in/afrajcharaniya](https://linkedin.com/in/afrajcharaniya)
+- **Professional Portfolio & Services:** [Afraj Charaniya Portfolio](https://afraj-portfolio.vercel.app/)
+- **GitHub:** [github.com/afrajcharaniya](https://github.com/afraz18)
+- **LinkedIn:** [linkedin.com/in/afraz18](https://linkedin.com/in/afrajcharaniya)
 - **Email:** [afrajcharniya264@gmail.com](mailto:afrajcharniya264@gmail.com)
 
 ---
